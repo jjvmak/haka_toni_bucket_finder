@@ -1,0 +1,282 @@
+[
+    {
+        "index": 0,
+        "guid": "c8617717-61c8-455e-aa33-3710bffab2b9",
+        "manager": "Head Sawyer",
+        "gender": "male",
+        "name": "CORECOM",
+        "email": "headsawyer@corecom.com",
+        "phone": "+1 (968) 490-2381",
+        "address": "842 Garland Court, Northchase, Pennsylvania, 7422",
+        "about": "Ex sit dolor ipsum deserunt proident commodo ea. Fugiat aliquip sint aliqua qui enim nulla reprehenderit elit dolor in quis aliquip. Nisi officia ea labore voluptate in mollit ipsum ullamco id ea laborum qui excepteur. Incididunt in velit veniam qui amet est quis ea mollit quis dolor. Fugiat non officia dolor sunt pariatur reprehenderit.\r\n",
+        "opened": "2016-07-15T01:43:34 -03:00",
+        "latitude": -42.909301,
+        "longitude": -115.213386,
+        "socialMediaFollowers": [
+            {
+                "id": 0,
+                "name": "Atkins Allison"
+            },
+            {
+                "id": 1,
+                "name": "Florine White"
+            },
+            {
+                "id": 2,
+                "name": "Daisy Le"
+            },
+            {
+                "id": 3,
+                "name": "Marisol Lindsay"
+            },
+            {
+                "id": 4,
+                "name": "Conley Hays"
+            },
+            {
+                "id": 5,
+                "name": "Hampton Ellis"
+            },
+            {
+                "id": 6,
+                "name": "Kim Leon"
+            },
+            {
+                "id": 7,
+                "name": "Burnett Carver"
+            },
+            {
+                "id": 8,
+                "name": "Alexandra Norman"
+            },
+            {
+                "id": 9,
+                "name": "Faulkner Morin"
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "guid": "ad43020a-978c-45d5-8b10-ff2841866448",
+        "manager": "Charmaine Parrish",
+        "gender": "female",
+        "name": "TASMANIA",
+        "email": "charmaineparrish@tasmania.com",
+        "phone": "+1 (926) 518-2459",
+        "address": "378 Doughty Street, Slovan, North Carolina, 7760",
+        "about": "Qui nisi Lorem voluptate proident dolore. Culpa ad est Lorem aliqua est exercitation. In nostrud do id ullamco occaecat commodo incididunt nisi nostrud ut esse pariatur culpa do. Duis adipisicing dolor enim mollit cupidatat velit. Nisi reprehenderit magna aute ad laborum ad excepteur elit ea eu veniam commodo consequat eiusmod.\r\n",
+        "opened": "2014-09-16T10:22:48 -03:00",
+        "latitude": 71.82007,
+        "longitude": 118.477893,
+        "socialMediaFollowers": [
+            {
+                "id": 0,
+                "name": "Leach Lyons"
+            },
+            {
+                "id": 1,
+                "name": "Waters Wiley"
+            },
+            {
+                "id": 2,
+                "name": "Hartman Skinner"
+            },
+            {
+                "id": 3,
+                "name": "Cohen Trujillo"
+            },
+            {
+                "id": 4,
+                "name": "Nannie Casey"
+            },
+            {
+                "id": 5,
+                "name": "Elizabeth Collins"
+            },
+            {
+                "id": 6,
+                "name": "Berg Maldonado"
+            },
+            {
+                "id": 7,
+                "name": "Valerie Hart"
+            },
+            {
+                "id": 8,
+                "name": "Wendy Baird"
+            },
+            {
+                "id": 9,
+                "name": "Paul Michael"
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "guid": "045f5e5e-75fe-49bd-8087-3d56b98f9ec4",
+        "manager": "Anita Hudson",
+        "gender": "female",
+        "name": "XOGGLE",
+        "email": "anitahudson@xoggle.com",
+        "phone": "+1 (836) 420-2866",
+        "address": "704 Bay Avenue, Tyro, Iowa, 1509",
+        "about": "Deserunt laborum laboris sunt nulla sit eiusmod consequat ex amet consequat laborum pariatur excepteur eiusmod. Laboris pariatur anim Lorem elit exercitation sit nisi. Esse cillum minim adipisicing dolor cillum Lorem. Qui dolor reprehenderit eu dolor nostrud officia laborum labore sint ipsum ipsum dolor sit ex. Lorem sunt sunt anim officia ex nostrud culpa quis anim eu mollit do ea enim.\r\n",
+        "opened": "2019-02-10T02:05:37 -02:00",
+        "latitude": -45.755813,
+        "longitude": -127.110718,
+        "socialMediaFollowers": [
+            {
+                "id": 0,
+                "name": "Janice Holt"
+            },
+            {
+                "id": 1,
+                "name": "Riley Hawkins"
+            },
+            {
+                "id": 2,
+                "name": "Flowers Morgan"
+            },
+            {
+                "id": 3,
+                "name": "Lelia Lancaster"
+            },
+            {
+                "id": 4,
+                "name": "Virgie Gill"
+            },
+            {
+                "id": 5,
+                "name": "Munoz Downs"
+            },
+            {
+                "id": 6,
+                "name": "Holman Suarez"
+            },
+            {
+                "id": 7,
+                "name": "Mcgee Vincent"
+            },
+            {
+                "id": 8,
+                "name": "Lilia Nolan"
+            },
+            {
+                "id": 9,
+                "name": "Beverley Holman"
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "guid": "dfc10f06-bf92-43c0-88e6-62c1b52fc71e",
+        "manager": "Sawyer Pratt",
+        "gender": "male",
+        "name": "DARWINIUM",
+        "email": "sawyerpratt@darwinium.com",
+        "phone": "+1 (949) 577-3988",
+        "address": "314 Caton Avenue, Kipp, Maine, 6659",
+        "about": "Elit eiusmod deserunt elit irure enim et exercitation aliquip dolor ex cillum nisi labore. Aute ex dolor officia ad velit et dolor dolore esse adipisicing culpa. Ea sunt qui qui laborum. Nulla dolor laborum quis aute velit. Laboris et in sint elit deserunt non Lorem officia enim dolore excepteur. Reprehenderit veniam laboris esse dolore id et ad culpa eu fugiat do laborum aliqua ex.\r\n",
+        "opened": "2018-02-09T05:19:32 -02:00",
+        "latitude": -6.997509,
+        "longitude": 171.882649,
+        "socialMediaFollowers": [
+            {
+                "id": 0,
+                "name": "Angie Chaney"
+            },
+            {
+                "id": 1,
+                "name": "Rosalinda Jacobs"
+            },
+            {
+                "id": 2,
+                "name": "Jannie Fulton"
+            },
+            {
+                "id": 3,
+                "name": "Opal Zimmerman"
+            },
+            {
+                "id": 4,
+                "name": "Lydia Charles"
+            },
+            {
+                "id": 5,
+                "name": "Morgan Roberts"
+            },
+            {
+                "id": 6,
+                "name": "Isabel Beard"
+            },
+            {
+                "id": 7,
+                "name": "Kirsten Gardner"
+            },
+            {
+                "id": 8,
+                "name": "Greta Cline"
+            },
+            {
+                "id": 9,
+                "name": "West Macias"
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "guid": "98ebb71a-fabb-4bf1-83e1-649341569dad",
+        "manager": "Ryan Ratliff",
+        "gender": "male",
+        "name": "INEAR",
+        "email": "ryanratliff@inear.com",
+        "phone": "+1 (979) 515-2829",
+        "address": "677 Elm Avenue, Levant, Rhode Island, 8618",
+        "about": "Mollit ad ullamco nostrud mollit. Velit eu aliquip veniam excepteur consequat culpa qui eiusmod ex occaecat eiusmod anim quis et. Laboris et tempor sint consectetur consectetur sunt dolor ipsum fugiat officia anim occaecat reprehenderit eu. Minim eiusmod in et minim dolore. Id Lorem cupidatat excepteur eu sint non nostrud adipisicing consequat cillum cupidatat. Culpa eu sunt sit excepteur. Tempor qui pariatur mollit eiusmod.\r\n",
+        "opened": "2016-06-28T12:48:04 -03:00",
+        "latitude": 11.071097,
+        "longitude": -80.529152,
+        "socialMediaFollowers": [
+            {
+                "id": 0,
+                "name": "Bertha Kennedy"
+            },
+            {
+                "id": 1,
+                "name": "Montoya Wynn"
+            },
+            {
+                "id": 2,
+                "name": "Juliana Sims"
+            },
+            {
+                "id": 3,
+                "name": "Hazel Morrison"
+            },
+            {
+                "id": 4,
+                "name": "Berta Hunt"
+            },
+            {
+                "id": 5,
+                "name": "Carson Cortez"
+            },
+            {
+                "id": 6,
+                "name": "Cooper Barron"
+            },
+            {
+                "id": 7,
+                "name": "Lester Dyer"
+            },
+            {
+                "id": 8,
+                "name": "Marcia Delacruz"
+            },
+            {
+                "id": 9,
+                "name": "Esmeralda Wells"
+            }
+        ]
+    }
+]

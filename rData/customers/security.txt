@@ -1,0 +1,3 @@
+NOTE 1: The other file contains user passwords the customers use to log into Ronus-system with their email. Treat these files with caution.
+
+- System Administrator

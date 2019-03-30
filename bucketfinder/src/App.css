@@ -1,0 +1,27 @@
+
+p {
+  margin: 0
+}
+h1 {
+  margin: 0
+}
+a {
+  color: white
+}
+a:hover {
+  color: #eb3d00
+}
+
+.menu {
+  background-color: rgb(230, 230, 230);
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  top: 1%;
+  left: -10%;
+  border: solid;
+}
+
+#list {
+  padding: 20px;
+}

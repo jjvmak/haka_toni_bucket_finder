@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 0,
+        "productString": "Azerf Notebook",
+        "brand": "Azerf",
+        "productType": "Notebook",
+        "priceInEuro": "33.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 5,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 1,
+        "productString": "Azerf Helmet",
+        "brand": "Azerf",
+        "productType": "Helmet",
+        "priceInEuro": "24.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 2,
+        "productString": "Rikka Keychain",
+        "brand": "Rikka",
+        "productType": "Keychain",
+        "priceInEuro": "81.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 3,
+        "productString": "Laplaas Premium Cider",
+        "brand": "Laplaas",
+        "productType": "Premium Cider",
+        "priceInEuro": "35.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 4,
+        "productString": "Laplaas Alcohol Free Wine",
+        "brand": "Laplaas",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "65.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 5,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 9,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 5,
+        "productString": "Laplaas Beer",
+        "brand": "Laplaas",
+        "productType": "Beer",
+        "priceInEuro": "61.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 6,
+        "productString": "Laplaas Basket",
+        "brand": "Laplaas",
+        "productType": "Basket",
+        "priceInEuro": "75.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 14
+        }
+    },
+    {
+        "id": 8,
+        "productString": "Fouriier Premium Cider",
+        "brand": "Fouriier",
+        "productType": "Premium Cider",
+        "priceInEuro": "53.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 7
+        }
+    },
+    {
+        "id": 9,
+        "productString": "R-Menu Tin Foil",
+        "brand": "R-Menu",
+        "productType": "Tin Foil",
+        "priceInEuro": "67.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 10,
+        "productString": "R-Menu Helmet",
+        "brand": "R-Menu",
+        "productType": "Helmet",
+        "priceInEuro": "13.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 11,
+        "productString": "Gauzz Chocolate Bar",
+        "brand": "Gauzz",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "60.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 12,
+        "productString": "Laplaas Pizza",
+        "brand": "Laplaas",
+        "productType": "Pizza",
+        "priceInEuro": "6.84",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 14,
+        "productString": "Gauzz Gum",
+        "brand": "Gauzz",
+        "productType": "Gum",
+        "priceInEuro": "60.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 0,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 2,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 16,
+        "productString": "Rikka Gum",
+        "brand": "Rikka",
+        "productType": "Gum",
+        "priceInEuro": "65.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 17,
+        "productString": "Laplaas Chocolate Bar",
+        "brand": "Laplaas",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "42.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 6,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 18,
+        "productString": "Azerf Special Water",
+        "brand": "Azerf",
+        "productType": "Special Water",
+        "priceInEuro": "59.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 19,
+        "productString": "Resko Bread",
+        "brand": "Resko",
+        "productType": "Bread",
+        "priceInEuro": "43.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 9,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 5,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 20,
+        "productString": "R-Menu Pencil",
+        "brand": "R-Menu",
+        "productType": "Pencil",
+        "priceInEuro": "82.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 21,
+        "productString": "R-Menu Keychain",
+        "brand": "R-Menu",
+        "productType": "Keychain",
+        "priceInEuro": "45.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 22,
+        "productString": "Rikka Bucket",
+        "brand": "Rikka",
+        "productType": "Bucket",
+        "priceInEuro": "25.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 6,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 24,
+        "productString": "Gauzz Pizza",
+        "brand": "Gauzz",
+        "productType": "Pizza",
+        "priceInEuro": "44.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 5,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 25,
+        "productString": "Fouriier Gum",
+        "brand": "Fouriier",
+        "productType": "Gum",
+        "priceInEuro": "9.01",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 26,
+        "productString": "Rikka Cider",
+        "brand": "Rikka",
+        "productType": "Cider",
+        "priceInEuro": "27.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 3,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 27,
+        "productString": "R-Menu Beer",
+        "brand": "R-Menu",
+        "productType": "Beer",
+        "priceInEuro": "34.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 3
+        }
+    },
+    {
+        "id": 29,
+        "productString": "R-Menu Special Water",
+        "brand": "R-Menu",
+        "productType": "Special Water",
+        "priceInEuro": "82.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 30,
+        "productString": "Rikka Premium Cider",
+        "brand": "Rikka",
+        "productType": "Premium Cider",
+        "priceInEuro": "61.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 32,
+        "productString": "R-Menu Bucket",
+        "brand": "R-Menu",
+        "productType": "Bucket",
+        "priceInEuro": "83.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 33,
+        "productString": "Azerf Lemonade",
+        "brand": "Azerf",
+        "productType": "Lemonade",
+        "priceInEuro": "14.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 34,
+        "productString": "Gauzz Tin Foil",
+        "brand": "Gauzz",
+        "productType": "Tin Foil",
+        "priceInEuro": "79.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 0,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 37,
+        "productString": "Resko Cider",
+        "brand": "Resko",
+        "productType": "Cider",
+        "priceInEuro": "75.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 41,
+        "productString": "R-Menu Chocolate Bar",
+        "brand": "R-Menu",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "33.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 10,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 43,
+        "productString": "Azerf Pizza",
+        "brand": "Azerf",
+        "productType": "Pizza",
+        "priceInEuro": "96.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 44,
+        "productString": "Rikka Beer",
+        "brand": "Rikka",
+        "productType": "Beer",
+        "priceInEuro": "0.543",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 5,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 46,
+        "productString": "Fouriier Bread",
+        "brand": "Fouriier",
+        "productType": "Bread",
+        "priceInEuro": "77.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 47,
+        "productString": "Azerf Bread",
+        "brand": "Azerf",
+        "productType": "Bread",
+        "priceInEuro": "6.66",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 4
+        }
+    },
+    {
+        "id": 50,
+        "productString": "Laplaas Pencil",
+        "brand": "Laplaas",
+        "productType": "Pencil",
+        "priceInEuro": "1.71",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 52,
+        "productString": "R-Menu Lemonade",
+        "brand": "R-Menu",
+        "productType": "Lemonade",
+        "priceInEuro": "88.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 54,
+        "productString": "Resko Beer",
+        "brand": "Resko",
+        "productType": "Beer",
+        "priceInEuro": "16.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 55,
+        "productString": "Azerf Keychain",
+        "brand": "Azerf",
+        "productType": "Keychain",
+        "priceInEuro": "42.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 56,
+        "productString": "Laplaas Keychain",
+        "brand": "Laplaas",
+        "productType": "Keychain",
+        "priceInEuro": "8.73",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 3
+        }
+    },
+    {
+        "id": 58,
+        "productString": "R-Menu Cider",
+        "brand": "R-Menu",
+        "productType": "Cider",
+        "priceInEuro": "2.90",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 59,
+        "productString": "Gauzz Cider",
+        "brand": "Gauzz",
+        "productType": "Cider",
+        "priceInEuro": "99.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 62,
+        "productString": "R-Menu Cola",
+        "brand": "R-Menu",
+        "productType": "Cola",
+        "priceInEuro": "53.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 63,
+        "productString": "R-Menu Basket",
+        "brand": "R-Menu",
+        "productType": "Basket",
+        "priceInEuro": "17.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 64,
+        "productString": "Laplaas Cola",
+        "brand": "Laplaas",
+        "productType": "Cola",
+        "priceInEuro": "80.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 65,
+        "productString": "Fouriier Chocolate Bar",
+        "brand": "Fouriier",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "30.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 67,
+        "productString": "Azerf Premium Cider",
+        "brand": "Azerf",
+        "productType": "Premium Cider",
+        "priceInEuro": "31.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 68,
+        "productString": "Fouriier Keychain",
+        "brand": "Fouriier",
+        "productType": "Keychain",
+        "priceInEuro": "33.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 69,
+        "productString": "Azerf Chocolate Bar",
+        "brand": "Azerf",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "30.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 3,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 70,
+        "productString": "Azerf Cider",
+        "brand": "Azerf",
+        "productType": "Cider",
+        "priceInEuro": "32.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 71,
+        "productString": "Resko Pencil",
+        "brand": "Resko",
+        "productType": "Pencil",
+        "priceInEuro": "1.59",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 7
+        }
+    },
+    {
+        "id": 74,
+        "productString": "Resko Premium Cider",
+        "brand": "Resko",
+        "productType": "Premium Cider",
+        "priceInEuro": "83.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 75,
+        "productString": "Gauzz Bucket",
+        "brand": "Gauzz",
+        "productType": "Bucket",
+        "priceInEuro": "61.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 9,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 9,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 14
+        }
+    },
+    {
+        "id": 77,
+        "productString": "Fouriier Pizza",
+        "brand": "Fouriier",
+        "productType": "Pizza",
+        "priceInEuro": "74.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 79,
+        "productString": "R-Menu Gum",
+        "brand": "R-Menu",
+        "productType": "Gum",
+        "priceInEuro": "8.31",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 82,
+        "productString": "R-Menu Alcohol Free Wine",
+        "brand": "R-Menu",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "48.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 4
+        }
+    },
+    {
+        "id": 84,
+        "productString": "Gauzz Alcohol Free Wine",
+        "brand": "Gauzz",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "26.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 3,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 88,
+        "productString": "Fouriier Basket",
+        "brand": "Fouriier",
+        "productType": "Basket",
+        "priceInEuro": "26.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 89,
+        "productString": "Fouriier Notebook",
+        "brand": "Fouriier",
+        "productType": "Notebook",
+        "priceInEuro": "3.18",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 3
+        }
+    },
+    {
+        "id": 91,
+        "productString": "Azerf Gum",
+        "brand": "Azerf",
+        "productType": "Gum",
+        "priceInEuro": "89.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 93,
+        "productString": "Fouriier Cider",
+        "brand": "Fouriier",
+        "productType": "Cider",
+        "priceInEuro": "14.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 9,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 94,
+        "productString": "Gauzz Cola",
+        "brand": "Gauzz",
+        "productType": "Cola",
+        "priceInEuro": "9.73",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 96,
+        "productString": "Azerf Beer",
+        "brand": "Azerf",
+        "productType": "Beer",
+        "priceInEuro": "28.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 98,
+        "productString": "Fouriier Bucket",
+        "brand": "Fouriier",
+        "productType": "Bucket",
+        "priceInEuro": "37.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 99,
+        "productString": "Gauzz Helmet",
+        "brand": "Gauzz",
+        "productType": "Helmet",
+        "priceInEuro": "15.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 100,
+        "productString": "Resko Basket",
+        "brand": "Resko",
+        "productType": "Basket",
+        "priceInEuro": "17.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 102,
+        "productString": "Gauzz Special Water",
+        "brand": "Gauzz",
+        "productType": "Special Water",
+        "priceInEuro": "64.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 103,
+        "productString": "Resko Tin Foil",
+        "brand": "Resko",
+        "productType": "Tin Foil",
+        "priceInEuro": "90.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 3,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 104,
+        "productString": "Gauzz Lemonade",
+        "brand": "Gauzz",
+        "productType": "Lemonade",
+        "priceInEuro": "56.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 107,
+        "productString": "Gauzz Keychain",
+        "brand": "Gauzz",
+        "productType": "Keychain",
+        "priceInEuro": "12.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 9,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 109,
+        "productString": "Gauzz Notebook",
+        "brand": "Gauzz",
+        "productType": "Notebook",
+        "priceInEuro": "89.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 4
+        }
+    },
+    {
+        "id": 110,
+        "productString": "Gauzz Beer",
+        "brand": "Gauzz",
+        "productType": "Beer",
+        "priceInEuro": "40.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 5,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 111,
+        "productString": "Gauzz Premium Cider",
+        "brand": "Gauzz",
+        "productType": "Premium Cider",
+        "priceInEuro": "97.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 10,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 112,
+        "productString": "R-Menu Bread",
+        "brand": "R-Menu",
+        "productType": "Bread",
+        "priceInEuro": "30.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 114,
+        "productString": "Laplaas Tin Foil",
+        "brand": "Laplaas",
+        "productType": "Tin Foil",
+        "priceInEuro": "14.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 120,
+        "productString": "Azerf Pencil",
+        "brand": "Azerf",
+        "productType": "Pencil",
+        "priceInEuro": "90.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 5,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 122,
+        "productString": "Fouriier Helmet",
+        "brand": "Fouriier",
+        "productType": "Helmet",
+        "priceInEuro": "10.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 123,
+        "productString": "Azerf Alcohol Free Wine",
+        "brand": "Azerf",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "94.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 125,
+        "productString": "Laplaas Bread",
+        "brand": "Laplaas",
+        "productType": "Bread",
+        "priceInEuro": "93.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 6,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 4
+        }
+    },
+    {
+        "id": 127,
+        "productString": "Gauzz Basket",
+        "brand": "Gauzz",
+        "productType": "Basket",
+        "priceInEuro": "3.29",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 128,
+        "productString": "Resko Gum",
+        "brand": "Resko",
+        "productType": "Gum",
+        "priceInEuro": "12.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 129,
+        "productString": "Laplaas Special Water",
+        "brand": "Laplaas",
+        "productType": "Special Water",
+        "priceInEuro": "24.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 3,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 7,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 9,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 131,
+        "productString": "Resko Bucket",
+        "brand": "Resko",
+        "productType": "Bucket",
+        "priceInEuro": "86.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 5,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 138,
+        "productString": "Laplaas Lemonade",
+        "brand": "Laplaas",
+        "productType": "Lemonade",
+        "priceInEuro": "39.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 9,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 139,
+        "productString": "Rikka Lemonade",
+        "brand": "Rikka",
+        "productType": "Lemonade",
+        "priceInEuro": "7.91",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 2,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 141,
+        "productString": "Resko Chocolate Bar",
+        "brand": "Resko",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "61.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 143,
+        "productString": "Resko Special Water",
+        "brand": "Resko",
+        "productType": "Special Water",
+        "priceInEuro": "45.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 145,
+        "productString": "Fouriier Lemonade",
+        "brand": "Fouriier",
+        "productType": "Lemonade",
+        "priceInEuro": "76.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 9,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 5,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 3
+        }
+    },
+    {
+        "id": 146,
+        "productString": "Resko Cola",
+        "brand": "Resko",
+        "productType": "Cola",
+        "priceInEuro": "16.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 151,
+        "productString": "Fouriier Cola",
+        "brand": "Fouriier",
+        "productType": "Cola",
+        "priceInEuro": "87.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 153,
+        "productString": "Resko Notebook",
+        "brand": "Resko",
+        "productType": "Notebook",
+        "priceInEuro": "94.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 0,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 2,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 154,
+        "productString": "Resko Lemonade",
+        "brand": "Resko",
+        "productType": "Lemonade",
+        "priceInEuro": "40.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 2,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 155,
+        "productString": "Rikka Notebook",
+        "brand": "Rikka",
+        "productType": "Notebook",
+        "priceInEuro": "37.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 12,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 4
+        }
+    },
+    {
+        "id": 156,
+        "productString": "Fouriier Alcohol Free Wine",
+        "brand": "Fouriier",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "66.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 14
+        }
+    },
+    {
+        "id": 157,
+        "productString": "Rikka Bread",
+        "brand": "Rikka",
+        "productType": "Bread",
+        "priceInEuro": "1.14",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 164,
+        "productString": "Rikka Special Water",
+        "brand": "Rikka",
+        "productType": "Special Water",
+        "priceInEuro": "0.0765",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 11
+        }
+    },
+    {
+        "id": 165,
+        "productString": "Rikka Alcohol Free Wine",
+        "brand": "Rikka",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "77.9",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 166,
+        "productString": "Laplaas Cider",
+        "brand": "Laplaas",
+        "productType": "Cider",
+        "priceInEuro": "70.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 2,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 7
+        }
+    },
+    {
+        "id": 171,
+        "productString": "Rikka Tin Foil",
+        "brand": "Rikka",
+        "productType": "Tin Foil",
+        "priceInEuro": "51.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 174,
+        "productString": "Azerf Cola",
+        "brand": "Azerf",
+        "productType": "Cola",
+        "priceInEuro": "42.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 9,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 180,
+        "productString": "Resko Helmet",
+        "brand": "Resko",
+        "productType": "Helmet",
+        "priceInEuro": "45.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 9
+        }
+    },
+    {
+        "id": 182,
+        "productString": "Laplaas Bucket",
+        "brand": "Laplaas",
+        "productType": "Bucket",
+        "priceInEuro": "21.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 14
+        }
+    },
+    {
+        "id": 189,
+        "productString": "R-Menu Pizza",
+        "brand": "R-Menu",
+        "productType": "Pizza",
+        "priceInEuro": "94.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 12,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 209,
+        "productString": "Resko Pizza",
+        "brand": "Resko",
+        "productType": "Pizza",
+        "priceInEuro": "85.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 2,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 223,
+        "productString": "Gauzz Pencil",
+        "brand": "Gauzz",
+        "productType": "Pencil",
+        "priceInEuro": "38.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 7,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 13
+        }
+    },
+    {
+        "id": 224,
+        "productString": "Fouriier Special Water",
+        "brand": "Fouriier",
+        "productType": "Special Water",
+        "priceInEuro": "50.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 14
+        }
+    },
+    {
+        "id": 229,
+        "productString": "Rikka Basket",
+        "brand": "Rikka",
+        "productType": "Basket",
+        "priceInEuro": "88.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 6,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 233,
+        "productString": "Laplaas Gum",
+        "brand": "Laplaas",
+        "productType": "Gum",
+        "priceInEuro": "22.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 4,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 0,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 0,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 0
+        }
+    },
+    {
+        "id": 251,
+        "productString": "Resko Alcohol Free Wine",
+        "brand": "Resko",
+        "productType": "Alcohol Free Wine",
+        "priceInEuro": "33.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 2,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 7
+        }
+    },
+    {
+        "id": 255,
+        "productString": "R-Menu Notebook",
+        "brand": "R-Menu",
+        "productType": "Notebook",
+        "priceInEuro": "97.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 262,
+        "productString": "Rikka Helmet",
+        "brand": "Rikka",
+        "productType": "Helmet",
+        "priceInEuro": "84.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 272,
+        "productString": "Resko Keychain",
+        "brand": "Resko",
+        "productType": "Keychain",
+        "priceInEuro": "69.5",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 10,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 6,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 288,
+        "productString": "Laplaas Helmet",
+        "brand": "Laplaas",
+        "productType": "Helmet",
+        "priceInEuro": "67.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 1,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 304,
+        "productString": "Laplaas Notebook",
+        "brand": "Laplaas",
+        "productType": "Notebook",
+        "priceInEuro": "83.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 2,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 11,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 6
+        }
+    },
+    {
+        "id": 310,
+        "productString": "Fouriier Beer",
+        "brand": "Fouriier",
+        "productType": "Beer",
+        "priceInEuro": "30.0",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 5,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 4,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 311,
+        "productString": "R-Menu Premium Cider",
+        "brand": "R-Menu",
+        "productType": "Premium Cider",
+        "priceInEuro": "71.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 8,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 4,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 6,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 353,
+        "productString": "Rikka Cola",
+        "brand": "Rikka",
+        "productType": "Cola",
+        "priceInEuro": "49.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 0,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 14,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 8,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 1,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 391,
+        "productString": "Rikka Pencil",
+        "brand": "Rikka",
+        "productType": "Pencil",
+        "priceInEuro": "59.7",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 1,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 3,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 14,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 11,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 396,
+        "productString": "Fouriier Pencil",
+        "brand": "Fouriier",
+        "productType": "Pencil",
+        "priceInEuro": "63.3",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 7,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 0,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    },
+    {
+        "id": 493,
+        "productString": "Azerf Basket",
+        "brand": "Azerf",
+        "productType": "Basket",
+        "priceInEuro": "38.6",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 8,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 10,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 13,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 10
+        }
+    },
+    {
+        "id": 506,
+        "productString": "Gauzz Bread",
+        "brand": "Gauzz",
+        "productType": "Bread",
+        "priceInEuro": "27.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 11,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 12,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 10,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 12
+        }
+    },
+    {
+        "id": 528,
+        "productString": "Fouriier Tin Foil",
+        "brand": "Fouriier",
+        "productType": "Tin Foil",
+        "priceInEuro": "63.8",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 6,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 6,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 3,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 549,
+        "productString": "Azerf Tin Foil",
+        "brand": "Azerf",
+        "productType": "Tin Foil",
+        "priceInEuro": "35.2",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 12,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 13,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 13,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 8
+        }
+    },
+    {
+        "id": 555,
+        "productString": "Rikka Pizza",
+        "brand": "Rikka",
+        "productType": "Pizza",
+        "priceInEuro": "56.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 13,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 10,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 3,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 5,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 5
+        }
+    },
+    {
+        "id": 921,
+        "productString": "Azerf Bucket",
+        "brand": "Azerf",
+        "productType": "Bucket",
+        "priceInEuro": "30.4",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 14,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 11,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 4,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 14,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 1
+        }
+    },
+    {
+        "id": 947,
+        "productString": "Rikka Chocolate Bar",
+        "brand": "Rikka",
+        "productType": "Chocolate Bar",
+        "priceInEuro": "74.1",
+        "stockByStoreGUID": {
+            "c8617717-61c8-455e-aa33-3710bffab2b9": 9,
+            "ad43020a-978c-45d5-8b10-ff2841866448": 1,
+            "045f5e5e-75fe-49bd-8087-3d56b98f9ec4": 7,
+            "dfc10f06-bf92-43c0-88e6-62c1b52fc71e": 8,
+            "98ebb71a-fabb-4bf1-83e1-649341569dad": 2
+        }
+    }
+]
