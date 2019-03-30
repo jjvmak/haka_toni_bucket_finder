@@ -13,15 +13,21 @@ a:hover {
 }
 
 .menu {
-  background-color: rgb(230, 230, 230);
-  width: 400px;
-  height: 200px;
+  background-color: rgba(230, 230, 230, 0.7);
+  width: 150px;
+  height: 130px;
   position: fixed;
   top: 1%;
-  left: -10%;
+  left: -6%;
   border: solid;
+  border-color: grey;
+  border-width: 1px;
+  border-radius: 10px;
+  font-size: 12px;
+  text-indent: none;
+  font-weight: bold;
 }
 
 #list {
-  padding: 20px;
+  padding: 10px;
 }
